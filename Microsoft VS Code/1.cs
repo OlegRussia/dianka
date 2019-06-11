@@ -10,7 +10,7 @@ namespace CSharp1
    {
        static voin Main(string{}args)
        {
-           Console.Writeline("Hello world;");
+           Console.Writeline("Hello world;;");
        }
    }
    }
